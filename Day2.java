@@ -7,7 +7,35 @@ public class Day2{
 		recreateInt(convertToArrayList(x));
 	}
 
-		public static int recreateInt(ArrayList<Integer> X){
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static int recreateInt(ArrayList<Integer> X){
 			String O = "";
 
 			for(int i = 0; i < X.size; i++){
