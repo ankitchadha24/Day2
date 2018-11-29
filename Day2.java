@@ -4,7 +4,7 @@ public class Day2{
 
 		int x = (int)(Math.random()*9999)+1;
 
-		recreateInt(x)
+		recreateInt(convertToArrayList(x));
 	}
 
 		public static int recreateInt(ArrayList<Integer> X){
